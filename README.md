@@ -9,18 +9,13 @@
 - 🔧 **Ferramentas:** Git/GitHub, VSCode
 - 🚀 **Inglês:** fluente
 
----
-
-##📌 Projeto em Destaque
+## 📌 Projeto em Destaque
 🔹 [Patsche app](https://github.com/aaacms/patsche-app) – Aplicativo de vendas, utilizando Flutter e Firestore
 
 ---
 
-##📫 Contato
+## 📫 Contato
 📧 Email: amanda.sieb10@gmail.com
-
----
-
 🔗 LinkedIn: www.linkedin.com/in/amandasiebeneichler
 
 ----
