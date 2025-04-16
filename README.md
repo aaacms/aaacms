@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Amanda!</h1>
-<h3 align="center">A passionate developer from Horizontina/RS - Brazil</h3>
+<h1>Hi 👋, I'm Amanda!</h1>
+<h3>A passionate developer from Horizontina, RS, Brazil</h3>
 
+- 🎓 Accountability Technician | Undergraduate Student in Information Systems at UFSM
 - 🔭 I’m currently working on [cripto](https://github.com/aaacms/cripto)
-
 - 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **back-end projects**
-
+- 👯 I’m seeking a back-end internship opportunity
 - 📫 How to reach me **amanda.sieb10@gmail.com**
+
+<h2>🔧Tecnologies and Tools</h2>
+- 🛠  **Back-end:** Java, Python, C
+- 🌐 **Front-end:** HTML, CSS, JavaScript
+- 📦 **Database:** Firebase, Postgree
+- 🔧 **Tools:** Git/GitHub, VSCode
+- 🚀 **English:** fluent
+
+<h2>📌 Highlighted Project</h2>
+
+[Patsche App](https://github.com/aaacms/patsche-app) - A selling app built with Flutter and Firestore.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
