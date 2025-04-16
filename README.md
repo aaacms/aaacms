@@ -7,7 +7,7 @@
 - 👯 I’m seeking a back-end internship opportunity
 - 📫 How to reach me **amanda.sieb10@gmail.com**
 
-<h2>🔧Tecnologies and Tools</h2>
+<h2>🔧 Technologies and Tools</h2>
 
 - 🛠  **Back-end:** Java, Python, C
 - 🌐 **Front-end:** HTML, CSS, JavaScript
