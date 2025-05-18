@@ -17,7 +17,7 @@
 
 <h2>📌 Highlighted Project</h2>
 
-[Patsche App](https://github.com/aaacms/patsche-app) - A selling app built with Flutter and Firestore.
+[Patsche App](https://github.com/aaacms/patsche-app-v1) - A selling app built with Flutter and Firestore.
 
 
 <h3 align="left">Connect with me:</h3>
