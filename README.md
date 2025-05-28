@@ -18,6 +18,7 @@
 <h2>📌 Highlighted Project</h2>
 
 [Patsche App](https://github.com/aaacms/patsche-app-v1) - A selling app built with Flutter and Firestore.
+[Calculadora de Autonomia](https://github.com/aaacms/calculadora-gasolina) - A calculator for my grandpa
 
 
 <h3 align="left">Connect with me:</h3>
